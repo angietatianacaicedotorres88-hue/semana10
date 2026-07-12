@@ -1,0 +1,18 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+
+Implementar la función para que los ciudadanos puedan reportar problemas en su barrio.
+Implementar la consulta del estado de los reportes por parte de la veeduría ciudadana.
+
+2. ¿Por qué son las más importantes?
+
+Porque el registro de reportes es la función principal del sistema y permite recopilar las necesidades de la comunidad. La consulta del estado de los reportes garantiza la transparencia y el seguimiento de las solicitudes, que es uno de los objetivos principales de una solución de veeduría ciudadana.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+
+Una tarea está terminada cuando cumple con los requisitos, funciona correctamente y está lista para ser utilizada por los usuarios.
+
+Definición simple de terminado
+
+La funcionalidad funciona correctamente y cumple con lo solicitado.
+Fue probada y no presenta errores importantes.
+El código quedó registrado en Git con su respectivo commit.

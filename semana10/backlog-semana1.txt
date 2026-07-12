@@ -1,0 +1,19 @@
+1
+Como ciudadano de la comunidad,
+quiero poder reportar problemas en mi barrio (como daños en vías, alumbrado o parques),
+para que las autoridades conozcan las necesidades y puedan darles seguimiento.
+
+2
+Como integrante de una veeduría ciudadana,
+quiero consultar el estado de los reportes realizados,
+para verificar que las solicitudes estén siendo atendidas de manera transparente.
+
+3
+Como líder comunitario,
+quiero recibir notificaciones sobre cambios en el estado de los proyectos comunitarios,
+para mantener informados a los vecinos y promover la participación ciudadana.
+
+4
+Como funcionario de la administración local,
+quiero publicar avances y evidencias de las acciones realizadas,
+para que la comunidad pueda supervisar la ejecución de los compromisos y fortalecer la confianza.
